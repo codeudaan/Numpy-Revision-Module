@@ -34,5 +34,6 @@ This is for Mac Os<br>
             <li>Random Module</li>
             <li>Distribution</li>
             <li>Assignments and Projects</li>
-
-Founder : @devidutta3
+<br>
+Founder : <a href="https://github.com/devidutta3">devidutta3</a> <br>
+Further queery : <a href="malito:codeudaansupport@gmail.com">Give Us Feadback</a>
