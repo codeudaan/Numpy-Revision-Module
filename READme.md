@@ -1,4 +1,4 @@
-<h1>This Repo Is Designed By Founder Of CodeUdaan And Team</h1>
+ <h1>This Repo Is Designed By Founder Of CodeUdaan And Team</h1>
 
 ---
 <p> What is Numpy : It is a library used for mathematical calulations,metrics and Ai/ml computations
@@ -36,4 +36,4 @@ This is for Mac Os<br>
             <li>Assignments and Projects</li>
 <br>
 Founder : <a href="https://github.com/devidutta3">devidutta3</a> <br>
-Further queery : <a href="malito:codeudaansupport@gmail.com">Give Us Feadback</a>
+Further queery : <a href="malito:codeudaansupport@://gmail.com"> Give Us Feadback</a>
